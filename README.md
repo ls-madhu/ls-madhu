@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### I'm <a href="https://github.com/ls-madhu" target="_blank">Madhu Sudhan</a>, Front-End Developer from India.
+#### I'm <a href="https://www.madhusudhan.me/" target="_blank">Madhu Sudhan</a>, Front-End Developer from India.
 
 #### Bio:
 
